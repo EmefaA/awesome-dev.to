@@ -1,6 +1,11 @@
 {
 	"series":[
 		{
+			"Series-Title" : "The HTTP Series",
+			"link" : "https://code-maze.com/http-series-part-1/",
+			"author" : "Vladimir Pecanac"
+		},
+		{
 			"Series-Title" : "Moving Past Tutorials: a course on problem solving for programmers ",
 			"link" : "https://dev.to/aspittel/moving-past-tutorials-a-course-on-problem-solving-for-programmers-3oa4",
 			"author" : "Ali Spittel"
